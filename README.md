@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Vishwakarma.
-- 📫 contact me on vrohit569@gmail.com
+-  welcome to my github profile.
 
 <!---
 Rohit-505/Rohit-505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
